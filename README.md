@@ -1,3 +1,4 @@
-# GTASAGuesser
+# MayGuessr
 ### Credits
-Szby, SpeedyFolf
+Evorsio
+Original SAGuessr: Szby, SpeedyFolf
