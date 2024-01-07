@@ -1,4 +1,4 @@
 # MayGuessr
 ### Credits
-Evorsio
-Original SAGuessr: Szby, SpeedyFolf
+* Evorsio
+* Original SAGuessr: Szby, SpeedyFolf
